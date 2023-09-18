@@ -1,0 +1,9 @@
+[submodule "JavaFileServer"]
+	path = JavaFileServer
+	url = https://github.com/Tredici/JavaFileServer.git
+[submodule "JFSProxyHelper"]
+	path = JFSProxyHelper
+	url = https://github.com/Tredici/JFSProxyHelper.git
+[submodule "JFSManagementApp"]
+	path = JFSManagementApp
+	url = https://github.com/Tredici/JFSManagementApp.git
